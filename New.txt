@@ -1,0 +1,17 @@
+// Set the text in Label
+mylab.Text = "GeeksforGeeks";
+
+// Set the location of the Label
+mylab.Location = new Point(222, 90);
+
+// Set the AutoSize property of the Label control
+mylab.AutoSize = true;
+
+// Set the font of the contentpppppppppppppooooppppppppooooppppppppooooppppppppoooooooooooooonnnnnnnntrew present in the Label Control
+mylab.Font = new Font("Calibri", 18);
+
+// Set the foreground color of the Label control
+mylab.ForeColor = Color.Green;
+
+// Set the padding in the Label control
+ mylab.Padding = new Padding(6);
